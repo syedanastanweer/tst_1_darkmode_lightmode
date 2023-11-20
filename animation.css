@@ -1,0 +1,918 @@
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12-0 {
+  from {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(255, 255, 255, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(255, 255, 255, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12-0 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12-0
+    0.5s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 118.5px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 153px;
+    height: 36px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 118.5px;
+    width: 153px;
+    height: 36px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-DarkMode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 200px;
+    height: 200px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    width: 200px;
+    height: 200px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://s3-alpha-sig.figma.com/img/ca69/02e1/4583c82e2adf83c24ef4d1e409d06698?Expires=1701648000&Signature=X3Y0MemLWhwysCxDKFylvdQYXhecfl9~8fUsthxIe1vKA4sN39bIc7Ci6h-g80T27ATfZmzx4noa7xctLAZbexwC7HwqbCJoZt4ypz5VIy6MTLvKdeV-Q7LpNwWZYifvMTytdxdlWx5LxcR3xwTTvUP-qAds6ahWJEz6X8EJtCGkWekXh4UNPuJTexTuurUZRtNFxOluFNs-YzhmGW-pWmkN-080zZZed-K4skxKZfUd8sU-Y4coYhm2lshaFl61c25X7MBFmhwdRL0TYi2Aaxc7ADNiw6dguK8yayhsYOE2MD6Z74QblkAt0TpXJoaB7ia4aSw1zm~tOLRlCJbpKA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-color: transparent;
+    background-color: transparent;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12 {
+  animation: bgAnimation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-12
+    0.5s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    width: 180px;
+    height: 100px;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    width: 180px;
+    height: 100px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    background: rgba(58, 149, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 93.74909973144531px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 70px;
+    height: 70px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 93.74909973144531px;
+    width: 70px;
+    height: 70px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-12 {
+  from {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35Z"
+    );
+  }
+  to {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-12 {
+  animation: path-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 390px;
+    height: 844px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 844px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border-radius: 0px;
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-Darkmode-12 0.5s
+    ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 200px;
+    height: 200px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    width: 200px;
+    height: 200px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://s3-alpha-sig.figma.com/img/26ee/e5e2/58281923c3d176d4cbae3ef21d487ffa?Expires=1701648000&Signature=B~EZzop~UxFz5tHx5z6z8BsG~09vivzbXSHNsqyLEPcU88FS5qmLeneHSmmbsML0ER1R~-6jATqcxU61SXKfw0tI3zrzCbS6TqHbi5Odtt6UWZVkaBqqGPn1n7jllJ2A2oH3p4taTUpJaDB1EvBEYX2EWMeIyORHWrn-hA-rL8Ue81mmVQ4S1QSaP4ekGlKTbtVEXPCliYn1d~1QmdDdtpvMVE9o~opwov4dV7zm~mUsUoP9M5IOQsSxjJP12CFMWkR9BFRGcAhN-C4A6O1Fccq0OerlFux8YLYrDGh75A0bjBdDtIPM1hXfKuhcQECDdnFJM5TI99ewi-kC4jUbGg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-color: transparent;
+    background-color: transparent;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12 {
+  animation: bgAnimation-click-Ellipse1-31-Darkmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-12
+    0.5s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12-0 {
+  from {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12-0 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12-0
+    0.5s ease-out 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 117px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 156px;
+    height: 36px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 117px;
+    width: 156px;
+    height: 36px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-LightMode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-lightmode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 180px;
+    height: 100px;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    width: 180px;
+    height: 100px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    background: rgba(196, 196, 196, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-lightmode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-lightmode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-12 {
+  from {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 15.00119686126709px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 70px;
+    height: 70px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 15.00119686126709px;
+    width: 70px;
+    height: 70px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-12 {
+  animation: animation-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-12 {
+  from {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35ZM18.0544 35C18.0544 44.3588 25.6412 51.9456 35 51.9456C44.3588 51.9456 51.9456 44.3588 51.9456 35C51.9456 25.6412 44.3588 18.0544 35 18.0544C25.6412 18.0544 18.0544 25.6412 18.0544 35Z"
+    );
+  }
+  to {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35ZM18.0544 35C18.0544 44.3588 25.6412 51.9456 35 51.9456C44.3588 51.9456 51.9456 44.3588 51.9456 35C51.9456 25.6412 44.3588 18.0544 35 18.0544C25.6412 18.0544 18.0544 25.6412 18.0544 35Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-12 {
+  animation: path-click-Ellipse1-31-Darkmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-12
+    0.5s ease-out 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 200px;
+    height: 200px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    width: 200px;
+    height: 200px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://s3-alpha-sig.figma.com/img/26ee/e5e2/58281923c3d176d4cbae3ef21d487ffa?Expires=1701648000&Signature=B~EZzop~UxFz5tHx5z6z8BsG~09vivzbXSHNsqyLEPcU88FS5qmLeneHSmmbsML0ER1R~-6jATqcxU61SXKfw0tI3zrzCbS6TqHbi5Odtt6UWZVkaBqqGPn1n7jllJ2A2oH3p4taTUpJaDB1EvBEYX2EWMeIyORHWrn-hA-rL8Ue81mmVQ4S1QSaP4ekGlKTbtVEXPCliYn1d~1QmdDdtpvMVE9o~opwov4dV7zm~mUsUoP9M5IOQsSxjJP12CFMWkR9BFRGcAhN-C4A6O1Fccq0OerlFux8YLYrDGh75A0bjBdDtIPM1hXfKuhcQECDdnFJM5TI99ewi-kC4jUbGg__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-color: transparent;
+    background-color: transparent;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16 {
+  animation: bgAnimation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets5lottiefilescompackageslf20_zk3wvzpgjson-31-Darkmode-16
+    0.5s ease-in 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16-0 {
+  from {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(0, 0, 0, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16-0 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16-0
+    0.5s ease-in 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 117px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    width: 156px;
+    height: 36px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 117px;
+    width: 156px;
+    height: 36px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-LightMode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-lightmode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    width: 180px;
+    height: 100px;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    width: 180px;
+    height: 100px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    background: rgba(196, 196, 196, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-lightmode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-lightmode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 15.00119686126709px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 70px;
+    height: 70px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 15.00119686126709px;
+    width: 70px;
+    height: 70px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-16 {
+  from {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35ZM18.0544 35C18.0544 44.3588 25.6412 51.9456 35 51.9456C44.3588 51.9456 51.9456 44.3588 51.9456 35C51.9456 25.6412 44.3588 18.0544 35 18.0544C25.6412 18.0544 18.0544 25.6412 18.0544 35Z"
+    );
+  }
+  to {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35ZM18.0544 35C18.0544 44.3588 25.6412 51.9456 35 51.9456C44.3588 51.9456 51.9456 44.3588 51.9456 35C51.9456 25.6412 44.3588 18.0544 35 18.0544C25.6412 18.0544 18.0544 25.6412 18.0544 35Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-16 {
+  animation: path-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-lightmode-31-Darkmode-svgpath-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    width: 390px;
+    height: 844px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 0px;
+    left: 0px;
+    width: 390px;
+    height: 844px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border-radius: 0px;
+    background: rgba(17, 17, 17, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-16 0.5s
+    ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16-0 {
+  from {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(255, 255, 255, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+  to {
+    font-size: 30px;
+    font-weight: 600;
+    white-space: pre-wrap;
+    letter-spacing: 0em;
+    background: rgba(255, 255, 255, 1);
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-family: Gilroy;
+    font-style: Regular;
+    -webkit-text-fill-color: transparent;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16-0 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16-0
+    0.5s ease-in 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 118.5px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 153px;
+    height: 36px;
+    border-radius: 0px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 447.4301452636719px;
+    left: 118.5px;
+    width: 153px;
+    height: 36px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border-radius: 0px;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-DarkMode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 200px;
+    height: 200px;
+    border: 0px solid transparent;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 200px;
+    left: 95px;
+    width: 200px;
+    height: 200px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 2;
+    border: 0px solid transparent;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes bgAnimation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16 {
+  from {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+  }
+  to {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background: url(https://s3-alpha-sig.figma.com/img/ca69/02e1/4583c82e2adf83c24ef4d1e409d06698?Expires=1701648000&Signature=X3Y0MemLWhwysCxDKFylvdQYXhecfl9~8fUsthxIe1vKA4sN39bIc7Ci6h-g80T27ATfZmzx4noa7xctLAZbexwC7HwqbCJoZt4ypz5VIy6MTLvKdeV-Q7LpNwWZYifvMTytdxdlWx5LxcR3xwTTvUP-qAds6ahWJEz6X8EJtCGkWekXh4UNPuJTexTuurUZRtNFxOluFNs-YzhmGW-pWmkN-080zZZed-K4skxKZfUd8sU-Y4coYhm2lshaFl61c25X7MBFmhwdRL0TYi2Aaxc7ADNiw6dguK8yayhsYOE2MD6Z74QblkAt0TpXJoaB7ia4aSw1zm~tOLRlCJbpKA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4);
+    background-color: transparent;
+    background-color: transparent;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.bgClass-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16 {
+  animation: bgAnimation-click-Ellipse1-31-lightmode-31-Darkmode-componentlottiehttpsassets10lottiefilescomtemplf20_y6mY2Ajson-31-Darkmode-16
+    0.5s ease-in 0s forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 180px;
+    height: 100px;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 550px;
+    left: 105px;
+    width: 180px;
+    height: 100px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 3;
+    border-radius: 100px;
+    border-top-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+
+    background: rgba(58, 149, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-Darkmode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes animation-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-16 {
+  from {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 93.74909973144531px;
+    /*visibility: hidden;*/
+    opacity: 0;
+    z-index: -10;
+    width: 70px;
+    height: 70px;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+  }
+  to {
+    transform: rotate(0deg);
+    top: 15px;
+    left: 93.74909973144531px;
+    width: 70px;
+    height: 70px;
+    /*visibility: visible;*/
+    opacity: 1;
+    z-index: 1;
+    border: 0px solid transparent;
+
+    border-radius: 50%;
+
+    background: rgba(255, 255, 255, 1);
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+}
+.class-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-16 {
+  animation: animation-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-16
+    0.5s ease-in 0s normal forwards;
+}
+@keyframes path-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-16 {
+  from {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35Z"
+    );
+  }
+  to {
+    d: path(
+      "M70 35C70 54.33 54.33 70 35 70C15.67 70 0 54.33 0 35C0 15.67 15.67 0 35 0C54.33 0 70 15.67 70 35Z"
+    );
+  }
+}
+.pathClass-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-16 {
+  animation: path-click-Ellipse1-31-lightmode-31-Darkmode-Ellipse1-31-Darkmode-31-Darkmode-svgpath-16
+    0.5s ease-in 0s normal forwards;
+}
